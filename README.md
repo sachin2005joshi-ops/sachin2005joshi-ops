@@ -1,20 +1,32 @@
+<!-- ======================= HEADER ======================= -->
+
+<div align="center">
+
 # 👋 Hi, I'm Sachin Joshi
 
-### 🤖 Third Year B.Tech AI & ML Student | Python Developer | AI & Machine Learning Enthusiast
+### B.Tech AI & ML Student • Building Intelligent Systems, One Project at a Time
 
-I am a passionate Artificial Intelligence & Machine Learning student interested in building intelligent systems, machine learning applications, and software projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+in+Progress;AI+%26+ML+Enthusiast;Python+Developer;NLP+Explorer;Building+AI-Powered+Projects" alt="Typing Animation" />
 
-🎓 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning
+<br>
 
-💻 Interested in Python, Machine Learning, Deep Learning and Data Science
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-🚀 Exploring AI-powered applications and real-world projects
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-📚 Continuously learning and improving my technical skills
+<a href="https://github.com/sachin2005joshi-ops">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 💫 About Me
 
 - 🎓 B.Tech Student in Artificial Intelligence & Machine Learning
 - 🐍 Python Developer
@@ -62,36 +74,23 @@ I am a passionate Artificial Intelligence & Machine Learning student interested 
 
 ---
 
-## 💻 Tech Stack
+<!-- ======================= TECH STACK ======================= -->
+## 🛠️ Tech Stack
 
-### Programming Languages
 
-- 🐍 Python
-- ☕ Java
-- 🔵 C
-- 🟨 JavaScript
 
-### AI & Machine Learning
+### 👨‍💻 Programming Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
+### 🤖 AI / Machine Learning
+<p> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🧠 TensorFlow
+### 🌐 Web Development
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </p>
 
-### Data Science
+### 🔧 Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p>
 
-- 🐼 Pandas
-- 🔢 NumPy
-- 📈 Matplotlib
-
-### Database & Tools
-
-- 🗄️ MySQL
-- 🌿 Git
-- 🐙 GitHub
-- 🎨 Canva
-
----
-
+------
 ## 🚀 Featured Projects
 
 ### 🧠 Social Network and Text Mining Hybrid System for Trend Prediction
@@ -128,61 +127,49 @@ An AI-powered study assistant that converts **YouTube lecture videos into struct
 
 ---
 
+<!-- ======================= EDUCATION ======================= -->
+🎓 Education
+Bachelor of Technology — Artificial Intelligence & Machine Learning
+
+Currently in Third Year
+
+🎯 Focus Areas:
+
+Artificial Intelligence
+Machine Learning
+Data Mining
+Natural Language Processing
+Python Programming
+Software Development
+
 ## 📌 More Projects Coming Soon...
 
 I am continuously building and experimenting with new **AI, Machine Learning, Deep Learning, NLP, and Data Science projects.**
 
 ---
 
-## 📚 Currently Learning
+<!-- ======================= GOALS ======================= -->
+🎯 2026 Goals
+🤖 Build more real-world AI/ML projects
+🧠 Improve Machine Learning & Deep Learning skills
+📚 Explore advanced NLP techniques
+💻 Improve software development skills
+🌐 Build useful AI-powered applications
+🚀 Contribute to open-source projects
+🏆 Build a strong GitHub portfolio
+<!-- ======================= CONNECT ======================= -->
+📫 Connect With Me
+<div align="center"> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/sachin2005joshi-ops"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center">
+⭐ Thanks for visiting my profile!
 
-```text
-Python
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Natural Language Processing
-   ↓
-LLMs / Generative AI
-   ↓
-Advanced AI Applications
+Let's build something intelligent together! 🤖🚀
 
-For your profile, I would especially recommend putting your **best 4–6 projects** here rather than listing every small college assignment.
 
----
-
-# STEP 8 — Add GitHub Statistics
-
-This is the section visible in your screenshot:
-
-```text
-GitHub Stats
-
-Total Stars
-Total Commits
-Total PRs
-Total Issues
-Contributions
-
-## 📊 GitHub Stats
-
-### GitHub Statistics
-
-<!-- GitHub Stats Card -->
-
-### 🔥 Contribution Streak
-
-<!-- Streak Statistics -->
-
-### 💻 Most Used Languages
-
-<!-- Language Statistics -->
+</div>
 
 ---
 
-sachin2005joshi-ops
 
 ## 🌐 Connect With Me
 
@@ -191,22 +178,6 @@ sachin2005joshi-ops
 💼 LinkedIn: https://github.com/sachin2005joshi-ops
 
 🐙 GitHub: https://www.linkedin.com/in/sachin-joshi-b09630338
-
----
-
-## 💡 My Mission
-
-> "Learn. Build. Experiment. Improve."
-
-I believe the best way to learn AI and Machine Learning is by building real-world projects and continuously experimenting with new technologies.
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-If you find my projects useful, consider giving them a ⭐
-
-**Let's build something amazing together! 🚀**
 
 ---
 
